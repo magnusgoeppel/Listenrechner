@@ -1,0 +1,3 @@
+/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug/CMakeFiles/Zwischtest3_Leeroy_der_Listenrechner.dir
+/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

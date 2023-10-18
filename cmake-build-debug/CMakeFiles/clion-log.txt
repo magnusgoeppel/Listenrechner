@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/ninja -G Ninja -S "/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner" -B "/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug

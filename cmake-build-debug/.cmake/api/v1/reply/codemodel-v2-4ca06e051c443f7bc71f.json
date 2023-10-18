@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Zwischtest3_Leeroy_der_Listenrechner",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Zwischtest3_Leeroy_der_Listenrechner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zwischtest3_Leeroy_der_Listenrechner-Debug-9d297f9a2d61749e561b.json",
+					"name" : "Zwischtest3_Leeroy_der_Listenrechner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner/cmake-build-debug",
+		"source" : "/home/user/Nextcloud/1. Semester/Prozedurale Sprachen Labor/Zwischentests/Zwischtest3_Leeroy_der_Listenrechner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
