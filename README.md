@@ -1,22 +1,26 @@
-# Listenrechner
-Der Listenrechner ist ein in C programmiertes Tool, das mathematische Ausdrücke mithilfe einer verketteten Liste organisiert und auswertet. Im Gegensatz zu herkömmlichen Taschenrechnern, bei denen ein gesamter mathematischer Ausdruck auf einmal eingegeben wird, erfordert der Listenrechner, dass Benutzer jeden Rechenschritt einzeln eingeben. Dies bietet eine schrittweise und detaillierte Darstellung des Rechenprozesses.
+# List Calculator
+The List Calculator is a C-programmed tool that organizes and evaluates mathematical expressions using a linked list. Unlike traditional calculators, where an entire mathematical expression is entered at once, the List Calculator requires users to input each calculation step individually. This provides a step-by-step and detailed representation of the calculation process.
 
-# Hauptmerkmale
+# Key Features
 
-## Verkettete Liste zur Organisation von Eingaben
-Jede Eingabe (Zahl oder Operator) wird als Knoten in einer verketteten Liste gespeichert.
-Dies ermöglicht eine flexible und dynamische Speicherung von Eingaben, unabhängig von ihrer Länge.
-## Schrittweise Eingabe und Auswertung
-Nach jeder Eingabe zeigt das Programm den aktuellen mathematischen Term an.
-Dies gibt dem Benutzer eine klare Vorstellung vom aktuellen Stand der Berechnung.
-## Unterstützung für Grundoperationen
-Der Rechner kann die Grundoperationen Addition (+), Subtraktion (-), Multiplikation (*) und Division (/) verarbeiten.
-## Fehlerbehandlung bei Division durch Null
-Um Fehler zu vermeiden, wird eine Division durch 0 automatisch als Division durch 1 behandelt.
-Dies stellt sicher, dass das Programm nicht abstürzt und dem Benutzer eine konsistente Erfahrung bietet.
-## Detaillierte Darstellung des Rechenwegs
-Bei Eingabe von "=" wird die Berechnung abgeschlossen.
-Das Programm präsentiert dann das Ergebnis zusammen mit einem detaillierten Rechenweg, sodass der Benutzer jeden Schritt des Prozesses nachvollziehen kann.
+## Linked List for Input Organization
+Each input (number or operator) is stored as a node in a linked list.
+This allows for flexible and dynamic storage of inputs, regardless of their length.
 
-# Benutzung
-Programm starten. Zahlen und Operatoren nacheinander eingeben. Nach jeder Eingabe wird der aktuelle Ausdruck angezeigt. Für das Ergebnis "=" eingeben.
+## Step-by-Step Input and Evaluation
+After each input, the program displays the current mathematical term.
+This gives the user a clear understanding of the current state of the calculation.
+
+## Support for Basic Operations
+The calculator can process the basic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+
+## Error Handling for Division by Zero
+To avoid errors, a division by zero is automatically treated as a division by 1.
+This ensures that the program does not crash and provides a consistent user experience.
+
+## Detailed Representation of Calculation Steps
+When "=" is entered, the calculation is completed.
+The program then presents the result along with a detailed calculation path, allowing the user to follow each step of the process.
+
+# Usage
+Start the program. Enter numbers and operators one after another. After each input, the current expression is displayed. Enter "=" for the result.
